@@ -11,3 +11,5 @@
 ## [TCP Working: 3-Way Handshake & Reliable Communication] - [https://dns-records-interview.hashnode.dev/tcp-explained-how-reliable-communication-works-on-the-internet?showSharer=true]
 ## [How a Browser Works: A Beginner-Friendly Guide to Browser Internals] - [https://browserdev.hashnode.dev/what-actually-happens-inside-a-browser-when-you-open-a-website?showSharer=true]
 ## [Understanding HTML Tags and Elements] - [https://browserdev.hashnode.dev/understanding-html-tags-and-elements?showSharer=true]
+## [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup] - [https://browserdev.hashnode.dev/emmet-explained-write-html-faster-without-memorizing-everything?showSharer=true]
+
